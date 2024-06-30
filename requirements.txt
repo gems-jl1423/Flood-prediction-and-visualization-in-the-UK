@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+folium
+scikit-learn
+matplotlib
+geojsoncontour
+pykrige
+branca
